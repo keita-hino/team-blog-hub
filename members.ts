@@ -45,5 +45,6 @@ export const members: Member[] = [
       "https://qiita.com/snyt45/feed",
       "https://node2.feed43.com/snyt45.xml"
     ],
+    twitterUsername: "snyt45"
   }
 ];
