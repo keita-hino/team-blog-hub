@@ -14,19 +14,6 @@ export const members: Member[] = [
     twitterUsername: "_kt15_"
   },
   {
-    id: "kyohei_shibuya",
-    name: "澁谷恭平",
-    role: "Engineering Manager",
-    bio: "coming soon...",
-    avatarSrc: "/avatars/shibuya_icon.jpeg",
-    sources: [
-      "https://zenn.dev/kyohei_shibuya/feed",
-      "https://shibuya01055.hatenablog.com/rss",
-      "https://qiita.com/shibuya01055/feed"
-    ],
-    twitterUsername: "TENTEN11055"
-  },
-  {
     id: "tatsuya_sasaki",
     name: "佐々木達也",
     role: "Engineer",
