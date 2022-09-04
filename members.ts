@@ -30,7 +30,7 @@ export const members: Member[] = [
     avatarSrc: "/avatars/sano_icon.jpeg",
     sources: [
       "https://qiita.com/snyt45/feed",
-      "https://node2.feed43.com/snyt45.xml"
+      "https://snyt45.github.io/weneedfeed-snyt45com/feeds/snyt45com.xml"
     ],
     twitterUsername: "snyt45"
   }
